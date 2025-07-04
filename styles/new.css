@@ -1,0 +1,8 @@
+div{
+    background-color:greenyellow;
+    width: 50%;
+    color: black;
+    font-size: 28px;
+    border: 4px solid black;
+    border-radius: 8px;
+}
